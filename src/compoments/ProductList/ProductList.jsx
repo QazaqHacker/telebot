@@ -3,7 +3,9 @@ import "./ProductList.css"
 
  const ProductList = () => {
   return (
-    <div>ProductList</div>
+    <div>
+    
+    </div>
   )
 }
 export default ProductList
